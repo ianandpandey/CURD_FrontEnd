@@ -38,7 +38,7 @@ const App = () => {
 
   return (
     <main className="container">
-      <h1 className="title">CRUD Operations</h1>
+      <h1 className="title">CURD Operations</h1>
       <div className="input-holder">
         <input
           type="text"
